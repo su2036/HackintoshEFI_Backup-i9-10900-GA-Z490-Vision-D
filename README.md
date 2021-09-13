@@ -24,13 +24,11 @@
 
 ### 업데이트 교체 파일
 - OpenCore-0.7.3-RELEASE(다운파일) > X64 >EFI
-    - OpenCore-0.7.3-RELEASE 파일 구성 이미지
-	> [ex) OC-Release-file](Docs/OC-file.png)
 	<details>
-	<summary>더보기</summary>
+	<summary>OpenCore-0.7.3-RELEASE 파일 구성 이미지</summary>
 
 	<!--summary 아래 빈칸 공백 두고 내용을 적는공간-->
-	자세한 내용은 더보기 버튼으로 가려둘 수 있음
+	[ex) OC-Release-file](Docs/OC-file.png)
 
 	</details>
 
