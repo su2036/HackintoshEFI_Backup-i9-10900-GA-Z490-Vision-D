@@ -1,5 +1,7 @@
 # Hackintosh-i9-10900-GA-Z490-Vision-D
 
+
+
 ## HW
 - CPU : Intel i9-10900
 - M/B : Gigabyte Z490 Vision D
@@ -11,3 +13,4 @@
 - GPU : Gigabyte Radeon Vaga56 8GB
 - WiFi/BT : fenvi T919 BCM9436CD
 - CASE : 리안리 PC-O11 Dynamic RAZER
+- Monitor : c27jg54 *3 Triple
