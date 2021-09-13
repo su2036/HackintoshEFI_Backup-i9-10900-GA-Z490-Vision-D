@@ -1,5 +1,5 @@
 # Hackintosh-i9-10900-GA-Z490-Vision-D
-![./Docs/my-hackintosh-i9.png]()
+![My-Hackintosh](Docs/my-hackintosh-i9.png)
 
 
 ## HW
