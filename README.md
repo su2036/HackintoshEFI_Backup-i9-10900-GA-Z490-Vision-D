@@ -1,7 +1,6 @@
 # Hackintosh-i9-10900-GA-Z490-Vision-D
 
 ## HW
----
 - CPU : Intel i9-10900
 - M/B : Gigabyte Z490 Vision D
   - Audio: Realtek ALC1220-VB
