@@ -26,10 +26,7 @@
 - OpenCore-0.7.3-RELEASE(다운파일) > X64 >EFI
 	<details>
 	<summary>OpenCore-0.7.3-RELEASE 파일 구성 이미지</summary>
-
-	<!--summary 아래 빈칸 공백 두고 내용을 적는공간-->
 	![ex) OC-Release-file](Docs/OC-file.png)
-
 	</details>
 
     - ./BOOT/**BOOTx64.efi**
