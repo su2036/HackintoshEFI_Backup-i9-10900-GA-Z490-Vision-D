@@ -20,17 +20,12 @@
 # OpenCore Update
 
 ## Step 1. OpenCorePkg Releases Check & Latest release Download
-
 - [OpenCorePkg Github](https://github.com/acidanthera/OpenCorePkg/releases)([https://github.com/acidanthera/OpenCorePkg/releases](https://github.com/acidanthera/OpenCorePkg/releases))
 
-[Releases · acidanthera/OpenCorePkg](https://github.com/acidanthera/OpenCorePkg/releases)
-
 ### 업데이트 교체 파일
-
 - OpenCore-0.7.3-RELEASE(다운파일) > X64 >EFI
     - OpenCore-0.7.3-RELEASE 파일 구성 이미지 펼치기
-
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c0c2febf-0fec-4173-aa0c-8b4c898f7da4/Untitled.png)
+	> i[OC-Release-file](Docs/OC-file.png)
 
     - ./BOOT/**BOOTx64.efi**
     - ./OC/**OpenCore.efi**
@@ -48,22 +43,17 @@
 
 - Github Release : [https://github.com/acidanthera/Lilu/releases](https://github.com/acidanthera/Lilu/releases)
 
-[Releases · acidanthera/Lilu](https://github.com/acidanthera/Lilu/releases)
 
 ### [VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases)
 
 - Github Release : [https://github.com/acidanthera/VirtualSMC/releases](https://github.com/acidanthera/VirtualSMC/releases)
 
-[Releases · acidanthera/VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases)
-
 ### [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases)
 
 - Github Release : [https://github.com/acidanthera/WhateverGreen/releases](https://github.com/acidanthera/WhateverGreen/releases)
 
-[Releases · acidanthera/WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases)
 
 ### [AppleALC](https://github.com/acidanthera/AppleALC/releases)
 
 - Github Release : [https://github.com/acidanthera/AppleALC/releases](https://github.com/acidanthera/AppleALC/releases)
 
-[Releases · acidanthera/AppleALC](https://github.com/acidanthera/AppleALC/releases)
